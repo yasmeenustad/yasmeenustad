@@ -40,11 +40,11 @@
         </span>
       </span></animated-image></p>
 
- - :eyes: Looking forward to make my mark into <b> Data Analytics field.</b>..
+ - :eyes: Looking forward to make my career into <b> Data Analytics/Scientist field.</b>..
  
- - :telescope: I’m currently working on <b> Machine Learning skills.</b>.
+ - :telescope: I’m currently pursuing Data Analyst/Scientist course at <b> Masai School.</b>.
  
- - :seedling: I’m enthusiatic about finding the intricacies in the data.
+ - :seedling: I have an interest in Data Cleaning and Visualization.
  
 
  
@@ -103,7 +103,7 @@
 <br>
 <p dir="auto"><animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/yasmeenustad/yasmeenustad/blob/output/github-contribution-grid-snake.gif" data-target="animated-image.originalLink"><img src="https://github.com/yasmeenustad/yasmeenustad/raw/output/github-contribution-grid-snake.gif" alt="snake gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/TejasK1906/TejasK1906/blob/output/github-contribution-grid-snake.gif" target="_blank">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/yasmeenustad/yasmeenustad/blob/output/github-contribution-grid-snake.gif" target="_blank">
           <span data-target="animated-image.imageContainer">
             <img data-target="animated-image.replacedImage" alt="snake gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/yasmeenustad/yasmeenustad/raw/output/github-contribution-grid-snake.gif" style="display: block; opacity: 1;">
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="846" height="198"></canvas></span>
