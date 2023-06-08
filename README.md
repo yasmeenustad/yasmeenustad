@@ -28,8 +28,6 @@
  
  - :mailbox: Contact me through <strong> <a href="https://www.linkedin.com/in/yasmeen-ustad-9694ab248" rel="nofollow" >LinkedIn</a></strong>.
  
- 
- 
  <br>
  <br>
  <br>
