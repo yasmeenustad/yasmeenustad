@@ -14,7 +14,7 @@
 </h3>
 
   <h2>
-  <img src="https://blog.imarticus.org/wp-content/uploads/2020/11/hyu.gif" width="50"> About Me :
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me :
 </h2>
 <p>
 <animated-image data-catalyst="" style="float: right; width: 400px;">
