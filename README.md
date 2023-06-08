@@ -46,11 +46,6 @@
  
  - :seedling: I have an interest in Data Cleaning and Visualization.
 
-<h1 align = "center">
-  Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Yasmeen Ustad!
-</h1>
- 
  - :thinking: Passionate to draw meaningful insights from the data.
  
  - :mailbox: Contact me through <strong> <a href="https://www.linkedin.com/in/yasmeen-ustad-9694ab248" rel="nofollow" >LinkedIn</a></strong>.
