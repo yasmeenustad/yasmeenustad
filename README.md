@@ -97,13 +97,8 @@
 <a href="https://www.hackerrank.com/yasmeenustad123" rel="nofollow"><img src="https://camo.githubusercontent.com/dea8697850e5e6109164b354bdb17397540dbce064f62e0d537605ac7eb8bb2a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34302f4861636b657252616e6b5f49636f6e2d3130303070782e706e67" width="44" height="44" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" style="max-width: 100%;"></a>
 </p>
 
-<br>
-<h2 dir="auto"><a id="user-content--contribution-graph-" class="anchor" href="#-contribution-graph-" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/96183540be6b4d71eaf4fb11c24b1700bf3fe5af54b02eca5a9c9ac65cf4a45f/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d666c617469636f6e732d6c696e65616c2d636f6c6f722d666c61742d69636f6e732f36342f3030303030302f65787465726e616c2d636f6e747269627574696f6e2d616368696576656d656e74732d666c617469636f6e732d6c696e65616c2d636f6c6f722d666c61742d69636f6e732e706e67"><img src="https://camo.githubusercontent.com/96183540be6b4d71eaf4fb11c24b1700bf3fe5af54b02eca5a9c9ac65cf4a45f/68747470733a2f2f696d672e69636f6e73382e636f6d2f65787465726e616c2d666c617469636f6e732d6c696e65616c2d636f6c6f722d666c61742d69636f6e732f36342f3030303030302f65787465726e616c2d636f6e747269627574696f6e2d616368696576656d656e74732d666c617469636f6e732d6c696e65616c2d636f6c6f722d666c61742d69636f6e732e706e67" width="40" data-canonical-src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-contribution-achievements-flaticons-lineal-color-flat-icons.png" style="max-width: 100%;"></a> <strong>Contribution Graph:</strong> </h2>
 
-<br>
-                                                       
-
-<!--
+ <!--
 **yasmeenustad/yasmeenustad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
