@@ -45,10 +45,11 @@
  - :telescope: I’m currently pursuing Data Analyst/Scientist course at <b> Masai School.</b>.
  
  - :seedling: I have an interest in Data Cleaning and Visualization.
- 
 
- 
- - <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="![hyu](https://github.com/yasmeenustad/yasmeenustad/assets/112754746/600cd445-0a5d-4a3b-a0e8-0b8a91d4310b)"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> All of my projects are available at <a href="https://github.com/yasmeenustad?tab=repositories"><img align="center" src="![hyu](https://github.com/yasmeenustad/yasmeenustad/assets/112754746/600cd445-0a5d-4a3b-a0e8-0b8a91d4310b)" alt="yasmeenustad" height="30" width="40" style="max-width: 100%;"></a></p>
+<h1 align = "center">
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Yasmeen Ustad!
+</h1>
  
  - :thinking: Passionate to draw meaningful insights from the data.
  
