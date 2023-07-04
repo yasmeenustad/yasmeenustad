@@ -18,7 +18,7 @@
 </h2>
 
 
- - :eyes: Looking forward to make my career into <b> Data Analytics/Scientist field.</b>..
+ - :eyes: Looking forward to make my career into <b> Data Analytics/Scientist field.</b>.
  
  - :telescope: I’m currently pursuing Data Analyst/Scientist course at <b> Masai School.</b>.
  
