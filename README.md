@@ -17,7 +17,7 @@
 </h2>
 
 <br>
-  <img src="https://github.com/yasmeenustad/yasmeenustad/assets/112754746/25c1163d-d991-405e-b55d-61359d0d2a3e" width="500" align="right">
+  <img src="https://github.com/yasmeenustad/yasmeenustad/assets/112754746/25c1163d-d991-405e-b55d-61359d0d2a3e" width="400" align="right">
 <br>
 
 
