@@ -17,9 +17,9 @@
 </h2>
 
 <br>
-  <img src="https://github.com/yasmeenustad/yasmeenustad/assets/112754746/5e886a6a-3ba8-449f-90bc-49f738471b01" width="500" align="right">
+  <img src="https://github.com/yasmeenustad/yasmeenustad/assets/112754746/25c1163d-d991-405e-b55d-61359d0d2a3e" width="500" align="right">
 <br>
-  
+
 
 
  - :eyes: Looking forward to making my career in <b> Data Analytics/Data Scientist field.</b>
