@@ -1,5 +1,4 @@
 <div id="header" align="center">
-
   <img src="https://github.com/yasmeenustad/yasmeenustad/assets/112754746/16143775-c52d-47c1-9bb0-95764ba56f02" width="500"/>
 </div>
 
@@ -16,6 +15,11 @@
   <h2>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me :
 </h2>
+
+<br>
+  <img src="https://github.com/yasmeenustad/yasmeenustad/assets/112754746/5e886a6a-3ba8-449f-90bc-49f738471b01" width="500" align="right">
+<br>
+  
 
 
  - :eyes: Looking forward to making my career in <b> Data Analytics/Data Scientist field.</b>
