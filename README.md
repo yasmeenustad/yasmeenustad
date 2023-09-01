@@ -20,8 +20,6 @@
   <img src="https://github.com/yasmeenustad/yasmeenustad/assets/112754746/25c1163d-d991-405e-b55d-61359d0d2a3e" width="500" align="right">
 <br>
 
-
-
  - :eyes: Looking forward to making my career in <b> Data Analytics/Data Scientist field.</b>
  
  - :telescope: I’m currently pursuing Data Analyst/Data Scientist course at <b> Masai School.</b>
