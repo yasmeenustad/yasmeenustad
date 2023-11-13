@@ -1,5 +1,6 @@
+
 <div id="header" align="center">
-  <img src="https://github.com/yasmeenustad/yasmeenustad/assets/112754746/16143775-c52d-47c1-9bb0-95764ba56f02" width="500"/>
+    <img src="https://github.com/yasmeenustad/Intern_Career/assets/112754746/35f0e8f1-7a18-43a1-850d-6743bd00c5ee"  height="400" width="800"/>
 </div>
 
 
